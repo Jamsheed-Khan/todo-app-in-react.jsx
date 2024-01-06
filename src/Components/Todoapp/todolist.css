@@ -13,6 +13,9 @@
     text-align: center;
    
 }
+.hello{
+    width: 95%;
+}
 .editsite{
     display: flex;
     align-items: center;

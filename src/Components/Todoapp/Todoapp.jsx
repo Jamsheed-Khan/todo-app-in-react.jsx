@@ -77,7 +77,7 @@ function Todoapp() {
             <h1>Todo App</h1>
             <br />
             <section className="input">
-                <div className="form-floating mb-3">
+                <div className="hello mb-3">
                     <input onChange={updateText} type="text" className="form-control" placeholder='write something here..' />
                 </div>
                 <div>
