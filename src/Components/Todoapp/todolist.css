@@ -16,6 +16,10 @@
 .hello{
     width: 95%;
 }
+.hello input{
+    padding: 15px;
+    border: 1px solid black;
+}
 .editsite{
     display: flex;
     align-items: center;
